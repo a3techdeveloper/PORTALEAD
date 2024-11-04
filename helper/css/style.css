@@ -1,0 +1,36 @@
+body{
+    /*background-image: url(../../img/fundo_index.jpg);*/
+    background-color: rgba(255, 255, 255, .2);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container-principal #div-topo{
+    margin-bottom: 160px;
+}
+
+#container-principal #div-logo{
+    margin-bottom: 80px;
+}
+
+#container-principal #div-logo img{
+     width: 260px;
+}
+
+#container-principal #div-form{
+    margin-bottom: 100px;
+}
+
+#container-principal #div-rodape{
+    position: absolute;
+    display: block;
+    top: -1px;
+    left: 0;
+}
+
+#bloco-pgto{
+    box-shadow: 1px 1px 3px #000;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
